@@ -1,0 +1,55 @@
+{
+    "banks": [
+        {
+            "alias": "HSBC",
+            "name": "The Hongkong and Shanghai Banking Corporation Limited",
+            "logo": "url of logo.png 512 X 512 pixels",
+            "place": {
+            	"city":"madrid",
+            	"country":"spain"
+            },
+            "links": [
+                {
+                    "rel": "bank",
+                    "href": "/BANK_ALIAS/bank",
+                    "method": "GET",
+                    "title": "Get information about the bank identified by BANK_ALIAS"
+                }
+            ]
+        },
+        {
+            "alias": "POSTBANK",
+            "name": "Post Bank",
+            "logo": "url of logo.png 512 X 512 pixels",
+            "place": {
+            	"city":"berlin",
+            	"country":"madrid"
+            },
+            "links": [
+                {
+                    "rel": "bank",
+                    "href": "/BANK_ALIAS/bank",
+                    "method": "GET",
+                    "title": "Get information about the bank identified by BANK_ALIAS"
+                }
+            ]
+        },
+        {
+            "alias": "GLS",
+            "name": "The Hongkong and Shanghai Banking Corporation Limited",
+            "logo": "url of logo.png 512 X 512 pixels",
+            "place": {
+            	"city":"sao paulo",
+            	"country":"brazil"
+            },
+            "links": [
+                {
+                    "rel": "bank",
+                    "href": "/BANK_ALIAS/bank",
+                    "method": "GET",
+                    "title": "Get information about the bank identified by BANK_ALIAS"
+                }
+            ]
+        }
+    ]
+}
