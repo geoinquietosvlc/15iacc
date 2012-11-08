@@ -39,8 +39,93 @@
             "name": "The Hongkong and Shanghai Banking Corporation Limited",
             "logo": "url of logo.png 512 X 512 pixels",
             "place": {
-            	"city":"sao paulo",
-            	"country":"brazil"
+                "city":"sao paulo",
+                "country":"brazil"
+            },
+            "links": [
+                {
+                    "rel": "bank",
+                    "href": "/BANK_ALIAS/bank",
+                    "method": "GET",
+                    "title": "Get information about the bank identified by BANK_ALIAS"
+                }
+            ]
+        },
+        {
+            "alias": "BANK1",
+            "name": "The Hongkong and Shanghai Banking Corporation Limited",
+            "logo": "url of logo.png 512 X 512 pixels",
+            "place": {
+                "city":"washington",
+                "country":"united states"
+            },
+            "links": [
+                {
+                    "rel": "bank",
+                    "href": "/BANK_ALIAS/bank",
+                    "method": "GET",
+                    "title": "Get information about the bank identified by BANK_ALIAS"
+                }
+            ]
+        },
+        {
+            "alias": "BANK2",
+            "name": "The Hongkong and Shanghai Banking Corporation Limited",
+            "logo": "url of logo.png 512 X 512 pixels",
+            "place": {
+                "city":"nairobi",
+                "country":"kenya"
+            },
+            "links": [
+                {
+                    "rel": "bank",
+                    "href": "/BANK_ALIAS/bank",
+                    "method": "GET",
+                    "title": "Get information about the bank identified by BANK_ALIAS"
+                }
+            ]
+        },
+        {
+            "alias": "BANK3 ",
+            "name": "The Hongkong and Shanghai Banking Corporation Limited",
+            "logo": "url of logo.png 512 X 512 pixels",
+            "place": {
+                "city":"tokyo",
+                "country":"japan"
+            },
+            "links": [
+                {
+                    "rel": "bank",
+                    "href": "/BANK_ALIAS/bank",
+                    "method": "GET",
+                    "title": "Get information about the bank identified by BANK_ALIAS"
+                }
+            ]
+        },
+        {
+            "alias": "BANK4",
+            "name": "The Hongkong and Shanghai Banking Corporation Limited",
+            "logo": "url of logo.png 512 X 512 pixels",
+            "place": {
+                "city":"melbourne",
+                "country":"australia"
+            },
+            "links": [
+                {
+                    "rel": "bank",
+                    "href": "/BANK_ALIAS/bank",
+                    "method": "GET",
+                    "title": "Get information about the bank identified by BANK_ALIAS"
+                }
+            ]
+        },
+        {
+            "alias": "BANK5",
+            "name": "The Hongkong and Shanghai Banking Corporation Limited",
+            "logo": "url of logo.png 512 X 512 pixels",
+            "place": {
+                "city":"staniel cay",
+                "country":"bahamas"
             },
             "links": [
                 {
