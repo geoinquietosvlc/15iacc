@@ -5,7 +5,7 @@ Scene.PICKING_RES = 1;
 //some locals
 var $ = function(id) { return document.getElementById(id); },
     $$ = function(selector) { return document.querySelectorAll(selector); },
-    citiesWorker = new Worker('cities.js'),
+    citiesWorker = new Worker('./js/transactions/cities.js'),
     data = { citiesRoutes: {}, airlinesRoutes: {} },
     models = { airlines: {} }, geom = {},
     airlineMgr = new AirlineManager(data, models),
@@ -57,6 +57,8 @@ document.onreadystatechange = function() {
   }
 };
 
+var imgPath = "js/transactions/img/earth.jpg";
+
 //Create earth
 models.earth = new O3D.Sphere({
   nlat: 150,
@@ -65,7 +67,7 @@ models.earth = new O3D.Sphere({
   uniforms: {
     shininess: 32
   },
-  textures: ['img/lala.jpg'],
+  textures: [imgPath],
   program: 'earth'
 });
 models.earth.rotation.set(Math.PI, 0,  0);
@@ -114,7 +116,7 @@ function loadData() {
   Log.write('Loading data...');
   //Request cities data
   new IO.XHR({
-    url: 'data/cities.json',
+    url: './js/transactions/data/cities.json',
     onSuccess: function(json) {
       data.cities = JSON.parse(json);
       citiesWorker.postMessage(data.cities);
@@ -131,7 +133,7 @@ function loadData() {
 
   //Request airline data
   new IO.XHR({
-    url: 'data/airlines.json',
+    url: './js/transactions/data/airlines.json',
     onSuccess: function(json) {
       var airlines = data.airlines = JSON.parse(json),
           airlinePos = data.airlinePos = {},
@@ -180,7 +182,7 @@ function loadData() {
         } else {
           Log.write('Fetching data for airline...');
           new IO.XHR({
-            url: 'data/airlines/' + airlineId.replace(' ', '_') + '.json',
+            url: './js/transactions/data/airlines/' + airlineId.replace(' ', '_') + '.json',
             onSuccess: function(json) {
               data.airlinesRoutes[airlineId] = JSON.parse(json);
               callback();
@@ -270,12 +272,13 @@ function rotateXY(phi, theta) {
 
 function createApp() {
   //Create application
+  var shadersPath = "./js/transactions/shaders/";
   PhiloGL('map-canvas', {
     program: [{
       //to render cities and routes
       id: 'airline_layer',
       from: 'uris',
-      path: 'shaders/',
+      path: shadersPath,
       vs: 'airline_layer.vs.glsl',
       fs: 'airline_layer.fs.glsl',
       noCache: true
@@ -283,7 +286,7 @@ function createApp() {
       //to render cities and routes
       id: 'layer',
       from: 'uris',
-      path: 'shaders/',
+      path: shadersPath,
       vs: 'layer.vs.glsl',
       fs: 'layer.fs.glsl',
       noCache: true
@@ -291,7 +294,7 @@ function createApp() {
       //to render the globe
       id: 'earth',
       from: 'uris',
-      path: 'shaders/',
+      path: shadersPath,
       vs: 'earth.vs.glsl',
       fs: 'earth.fs.glsl',
       noCache: true
@@ -299,7 +302,7 @@ function createApp() {
       //for glow post-processing
       id: 'glow',
       from: 'uris',
-      path: 'shaders/',
+      path: shadersPath,
       vs: 'glow.vs.glsl',
       fs: 'glow.fs.glsl',
       noCache: true
@@ -421,7 +424,7 @@ function createApp() {
       }
     },
     textures: {
-      src: ['img/lala.jpg']
+      src: [imgPath]
     },
     onError: function() {
       Log.write("There was an error creating the app.", true);
