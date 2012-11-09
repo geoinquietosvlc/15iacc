@@ -113,53 +113,19 @@ RightMenu.prototype = {
           color = airlineMgr.getColor(airlineId) || airlineMgr.getAvailableColor();
 
       if (checkbox.checked) {
-        
-
-        if (airlineId == 2822 || airlineId == 4737 || airlineId == 1422) {
-          var transaction = data.airlinesRoutes[airlineId];
-          var dataTransaction = transaction[0][5];
-
-          var template = "<h1>{{this_account.holder}}</h1>" +
-        "<h1>{{this_account.number}}</h1>" +
-        "<h1>{{this_account.kind}}</h1>" +
-        "<h1>{{this_account.bank.IBAN}}</h1>" +
-        "<h1>{{this_account.bank.national_identifier}}</h1>" +
-        "<h1>{{this_account.bank.name}}</h1>" +
-        "<h1>{{other_account.holder}}</h1>" +
-        "<h1>{{other_account.number}}</h1>" +
-        "<h1>{{other_account.kind}}</h1>" +
-        "<h1>{{other_account.bank.IBAN}}</h1>" +
-        "<h1>{{other_account.bank.national_identifier}}</h1>" +
-        "<h1>{{other_account.bank.name}}</h1>" +
-        "<h1>{{details.posted}}</h1>" +
-        "<h1>{{details.completed}}</h1>" +
-        "<h1>{{details.new_balance.currency}}</h1>" +
-        "<h1>{{details.new_balance.amount}}</h1>" +
-        "<h1>{{details.value.currency}}</h1>" +
-        "<h1>{{details.value.amount}}</h1>"
-        ;
-        jQuery("body").css("overflow", "hidden");
-        var html = Mustache.to_html(template, dataTransaction);
-        jQuery('#transaction').hide().css({
-          'margin-right': -300,
-          top: 200,
-          'margin-top' : -600,
-          'text-align' : 'right'
-        }).show().animate({'margin-right': "+=300"}, 2000, function(){});
-        jQuery('#transaction').html(html);
-        
-
-        }
-        
-
-        
-        
-        
         this.selectedAirlines.innerHTML += '<li id=\'' + airlineId + '-selected\'>' +
           '<input type=\'checkbox\' checked id=\'' + airlineId + '-checkbox-selected\' />' + 
           '<div class=\'square\' style=\'background-color:rgb(' + color + ');\' ></div>' + 
           name + '</li>';
+
+          
+          
+          
+        
+
+        
       } else {
+        jQuery('#transaction').html("");
         var node = $(airlineId + '-selected');
         node.parentNode.removeChild(node);
       }
