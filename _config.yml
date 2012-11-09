@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Flow of Money
-tagline: Visualize Open Bank Transactions Flow
+title : Money Journey
+tagline: Visualizing transactions with Open Bank Project data
 author :
   name : Daniel Gastón, Alberto Romeu and Jorge Sanz
   email : 

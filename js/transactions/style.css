@@ -43,6 +43,7 @@ div.fallback {
 
 body.no-webgl div.fallback {
   display: block;
+  font-size: larger;
 }
 
 div.tooltip {
@@ -230,11 +231,6 @@ ul#airline-list > li > label {
 
 canvas {
   background-color: rgb(0.1, 0.1, 0.1);
-}
-
-.footer {
-  margin: 4px;
-  font-size: 0.8em;
 }
 
 #loading {

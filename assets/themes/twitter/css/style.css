@@ -1,4 +1,13 @@
 /* Override some defaults */
+body, body > .container{
+	background-color: #323232;
+}
+
+body{
+	background-image: none;
+}
+
+
 
 .navbar {
   margin-bottom: 0;
