@@ -5,6 +5,42 @@
         "brazil",
         "pisco",
         "peru",
+		{
+            "this_account": {
+                "holder": "John Lazarus",
+                "number": "0580591101",
+                "kind": "Active",
+                "bank": {
+                    "IBAN": "12345678",
+                    "national_identifier": "BR",
+                    "name": "BANCO DO BRASIL"
+                }
+            },
+            "other_account": {               
+                "holder": "Jorge Sanz",
+                "number": "6812832678",
+                "kind": "Active",
+                "bank": {
+                    "IBAN": "987654321",
+                    "national_identifier": "ES",
+                    "name": "BANCO DEL PERU"
+                }
+            },
+            "details": {
+                "type_en": "",
+                "type_de": "",
+                "posted": "2012-11-09",
+                "completed": "2012-11-09",
+                "new_balance": {
+                    "currency": "R$",
+                    "amount": "8100"
+                },
+                "value": {
+                    "currency": "R$",
+                    "amount": "1000"
+                }
+            }
+        },
         "0"
     ]
 ]
