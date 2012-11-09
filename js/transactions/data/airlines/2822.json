@@ -7,19 +7,40 @@
         "spain",
 		{
             "this_account": {
-                "holder": {
-                    "name": "",
-                    "alias": "no"
-                },
+                "holder": "John Lazarus",
                 "number": "0580591101",
-                "kind": "",
+                "kind": "Active",
                 "bank": {
-                    "IBAN": "",
-                    "national_identifier": "",
-                    "name": "POSTBANK"
+                    "IBAN": "12345678",
+                    "national_identifier": "BR",
+                    "name": "BANCO DO BRASIL"
+                }
+            },
+            "other_account": {               
+                "holder": "Jorge Sanz",
+                "number": "6812832678",
+                "kind": "Active",
+                "bank": {
+                    "IBAN": "987654321",
+                    "national_identifier": "ES",
+                    "name": "BANCO SANTANDER"
+                }
+            },
+            "details": {
+                "type_en": "",
+                "type_de": "",
+                "posted": "2012-11-01T01:00:00.001+0100",
+                "completed": "2012-11-01T01:00:00.001+0100",
+                "new_balance": {
+                    "currency": "€",
+                    "amount": "14600"
+                },
+                "value": {
+                    "currency": "€",
+                    "amount": -139.19
                 }
             }
-		},
+        },
         "0"
     ]
 ]
