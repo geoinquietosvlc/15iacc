@@ -215,7 +215,7 @@ function loadData() {
               'margin-top' : -600,
               'text-align' : 'left',
               'margin-left' : "200%"
-            }).show().animate({'margin-right': "+=200", 'margin-left': "100%"}, 2000, function(){});
+            }).show().animate({'margin-right': "+=200", 'margin-left': "95%"}, 2000, function(){});
             jQuery('#transaction').html(html);
           }
 
