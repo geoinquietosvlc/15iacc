@@ -7,6 +7,10 @@ Use 3D visualization as a powerful and expressive way to communicate where the m
 
 [Visit the application](http://geoinquietosvlc.github.com/15iacc/)
 
+<div align="center">
+<img src="http://geoinquietosvlc.github.com/15iacc/assets/money_journey.png" width="600"/>
+</div>
+
 Work by:
 
 - Jorge Sanz
