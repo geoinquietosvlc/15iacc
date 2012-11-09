@@ -1,24 +1,34 @@
 //Unpack modules
 PhiloGL.unpack();
 Scene.PICKING_RES = 1;
-var template = "<h1>{{this_account.holder}}</h1>" +
-            "<h1>{{this_account.number}}</h1>" +
-            "<h1>{{this_account.kind}}</h1>" +
-            "<h1>{{this_account.bank.IBAN}}</h1>" +
-            "<h1>{{this_account.bank.national_identifier}}</h1>" +
-            "<h1>{{this_account.bank.name}}</h1>" +
-            "<h1>{{other_account.holder}}</h1>" +
-            "<h1>{{other_account.number}}</h1>" +
-            "<h1>{{other_account.kind}}</h1>" +
-            "<h1>{{other_account.bank.IBAN}}</h1>" +
-            "<h1>{{other_account.bank.national_identifier}}</h1>" +
-            "<h1>{{other_account.bank.name}}</h1>" +
-            "<h1>{{details.posted}}</h1>" +
-            "<h1>{{details.completed}}</h1>" +
-            "<h1>{{details.new_balance.currency}}</h1>" +
-            "<h1>{{details.new_balance.amount}}</h1>" +
-            "<h1>{{details.value.currency}}</h1>" +
-            "<h1>{{details.value.amount}}</h1>"
+String.prototype.visualLength = function()
+{
+    var ruler = $("ruler");
+    ruler.innerHTML = this;
+    return ruler.offsetWidth;
+}
+
+var template = "<h1> ORIGIN</h1>" +
+			"<p>Account Holder: {{this_account.holder}}</p>" +
+            "<p>Account Number: {{this_account.number}}</p>" +
+            "<h3>Status: {{this_account.kind}}</h1>" +
+            "<p>IBAN: {{this_account.bank.IBAN}}</p>" +
+            "<p>Bank Identifier: {{this_account.bank.national_identifier}}</p>" +
+            "<p>Bank Name: {{this_account.bank.name}}</p>" +
+			"<h1>DESTINY</h1>" +
+            "<p>Account Holder: {{other_account.holder}}</p>" +
+            "<p>Account Number: {{other_account.number}}</p>" +
+            "<h3>Status: {{other_account.kind}}</h1>" +
+            "<p>IBAN: {{other_account.bank.IBAN}}</p>" +
+            "<p>Bank Identifier: {{other_account.bank.national_identifier}}</p>" +
+            "<p>Bank Name: {{other_account.bank.name}}</p>" +
+			"<h1>DETAILS</h1>" +
+            "<h2>Time Posted: {{details.posted}}</h2>" +
+            "<h2>Time Completed: {{details.completed}}</h2>" +
+            "<h4>Account Currency: {{details.new_balance.currency}}</h4>" +
+            "<h3>Account Balance: {{details.new_balance.amount}}</h3>" +
+            "<h4>Transaction Currency: {{details.value.currency}}</h4>" +
+            "<h3>Transaction Amount: {{details.value.amount}}</h3>"
             ;
 
 //some locals
@@ -197,15 +207,15 @@ function loadData() {
               var dataTransaction = transaction[0][5];
 
               
-            jQuery("body").css("overflow", "hidden");
+            // jQuery("body").css("overflow", "hidden");
             var html = Mustache.to_html(template, dataTransaction);
             jQuery('#transaction').html("");
             jQuery('#transaction').hide().css({
-              'margin-right': -300,
-              top: 200,
+              'margin-right': -420,
               'margin-top' : -600,
-              'text-align' : 'right'
-            }).show().animate({'margin-right': "+=300"}, 2000, function(){});
+              'text-align' : 'left',
+              'margin-left' : "200%"
+            }).show().animate({'margin-right': "+=200", 'margin-left': "95%"}, 2000, function(){});
             jQuery('#transaction').html(html);
           }
 
@@ -421,7 +431,7 @@ function createApp() {
       onMouseWheel: function(e) {
         var camera = this.camera,
             from = -5.125,
-            to = -2.95,
+            to = -1.5,
             pos = camera.position,
             pz = pos.z,
             speed = (1 - Math.abs((pz - from) / (to - from) * 2 - 1)) / 6 + 0.001;
@@ -452,6 +462,7 @@ function createApp() {
           style.top = (e.y + 10 + bbox.top) + 'px';
           style.left = (e.x + 5 + bbox.left) + 'px';
           this.tooltip.className = 'tooltip show';
+          this.tooltip.style.opacity = "100";
 
           this.tooltip.innerHTML = textName;
         }

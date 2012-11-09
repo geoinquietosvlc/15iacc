@@ -8,10 +8,10 @@ tagline: Visualizing transactions with Open Bank Project data
 
     <link rel="stylesheet" media="all" type="text/css" href="{{BASE_PATH}}/js/transactions/style.css" />
 
-    <link rel="stylesheet" media="all" type="text/css" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css" />
+    <link rel="stylesheet" media="all" type="text/css" href="./js/transactions/jquery-ui.css" />
     
-    <script src="http://code.jquery.com/jquery-1.8.2.js"></script>
-    <script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
+    <script src="./js/transactions/jquery-1.8.2.js"></script>
+    <script src="./js/transactions/jquery-ui.js"></script>
 
     <script src="{{BASE_PATH}}/js/philogl/PhiloGL.js"></script>
     <script src="{{BASE_PATH}}/js/transactions/classes.js"></script>
@@ -30,7 +30,7 @@ tagline: Visualizing transactions with Open Bank Project data
           <canvas id="map-canvas" width="1024" height="1024"></canvas>
         </div>
         <div id="list-wrapper" class="list-wrapper" style="display:none;">
-          <input type="text" id="search" placeholder="Search for an Airline" />
+          <input type="text" id="search" placeholder="Search..." />
           <ul id="selected-airlines">
           </ul>
           <div class="list-container">
@@ -44,6 +44,7 @@ tagline: Visualizing transactions with Open Bank Project data
   <div class="tooltip hide" id="tooltip" style="width:auto;"></div>
 
   <div id="transaction"></div>
+  <span id="ruler"></span>
   
   <script>
     if (!PhiloGL.hasWebGL()) {
