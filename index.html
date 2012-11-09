@@ -6,17 +6,16 @@ tagline: Visualizing transactions with Open Bank Project data
 {% include JB/setup %}
 
 
-    <link rel="stylesheet" media="all" type="text/css" href="./js/transactions/style.css" />
+    <link rel="stylesheet" media="all" type="text/css" href="{{BASE_PATH}}/js/transactions/style.css" />
 
     <link rel="stylesheet" media="all" type="text/css" href="./js/transactions/jquery-ui.css" />
     
-    <script src="./js/transactions/jquery-1.8.2.js"></script>
-    <script src="./js/transactions/jquery-ui.js"></script>
-
-    <script src="./js/philogl/PhiloGL.js"></script>
-    <script src="./js/transactions/classes.js"></script>
-    <script src="./js/transactions/index.js"></script>
-    <script src="./js/transactions/mustache.js"></script>
+    <script src="{{BASE_PATH}}/js/transactions/jquery-1.8.2.js"></script>
+    <script src="{{BASE_PATH}}/js/transactions/jquery-ui.js"></script>
+    <script src="{{BASE_PATH}}/js/philogl/PhiloGL.js"></script>
+    <script src="{{BASE_PATH}}/js/transactions/classes.js"></script>
+    <script src="{{BASE_PATH}}/js/transactions/index.js"></script>
+    <script src="{{BASE_PATH}}/js/transactions/mustache.js"></script>
 
     <div id="log-panel" style="display:none;">
       <span id="log-message"></span>
@@ -50,9 +49,10 @@ tagline: Visualizing transactions with Open Bank Project data
     if (!PhiloGL.hasWebGL()) {
       document.body.className = 'no-webgl';
       document.getElementById('fallback').innerHTML = ''
-        +  '<div style="margin:10px;" class="alert alert-error">'
-        +   'Uh, that\'s embarrassing but your browser (or hardware) does not support WebGL. Go <a href="http://get.webgl.org">here</a> to find more information.'
+        +  '<div style="margin:10px;margin-left:120px;" class="alert alert-error">'
+        +   '<p>Uh, that was embarrassing but your browser (or hardware) does not support WebGL.</br>'
+        +   'Please, go <a href="http://get.webgl.org">here</a> to find more information.</p>'
         +  '</div>'
-        +   '<img style="text-align:center;width:500px;" src="{{BASE_PATH}}/assets/pantallazo.png"/>';
+        +   '<p style="text-align:center;"><img style="width:500px;" src="{{BASE_PATH}}/assets/pantallazo.png"/></p>';
     }
   </script>
