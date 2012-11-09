@@ -138,7 +138,14 @@ RightMenu.prototype = {
         "<h1>{{details.value.currency}}</h1>" +
         "<h1>{{details.value.amount}}</h1>"
         ;
+        jQuery("body").css("overflow", "hidden");
         var html = Mustache.to_html(template, dataTransaction);
+        jQuery('#transaction').hide().css({
+          'margin-right': -300,
+          top: 200,
+          'margin-top' : -600,
+          'text-align' : 'right'
+        }).show().animate({'margin-right': "+=300"}, 2000, function(){});
         jQuery('#transaction').html(html);
         
 
