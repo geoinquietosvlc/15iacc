@@ -1,6 +1,13 @@
 //Unpack modules
 PhiloGL.unpack();
 Scene.PICKING_RES = 1;
+String.prototype.visualLength = function()
+{
+    var ruler = $("ruler");
+    ruler.innerHTML = this;
+    return ruler.offsetWidth;
+}
+
 var template = "<h1> ORIGIN</h1>" +
 			"<p>Account Holder: {{this_account.holder}}</p>" +
             "<p>Account Number: {{this_account.number}}</p>" +
@@ -200,15 +207,14 @@ function loadData() {
               var dataTransaction = transaction[0][5];
 
               
-            jQuery("body").css("overflow", "hidden");
+            // jQuery("body").css("overflow", "hidden");
             var html = Mustache.to_html(template, dataTransaction);
             jQuery('#transaction').html("");
             jQuery('#transaction').hide().css({
-              'margin-right': -300,
-              top: 200,
+              'margin-right': -420,
               'margin-top' : -600,
-              'text-align' : 'left'
-            }).show().animate({'margin-right': "+=300"}, 2000, function(){});
+              'text-align' : 'right'
+            }).show().animate({'margin-right': "+=200"}, 2000, function(){});
             jQuery('#transaction').html(html);
           }
 

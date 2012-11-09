@@ -199,6 +199,8 @@ canvas {
   background-color: rgb(0.1, 0.1, 0.1);
 }
 
+#ruler { visibility: hidden; white-space: nowrap; }
+
 #loading {
   background-color: #550000;
   color: #fff;
@@ -209,7 +211,7 @@ canvas {
   font-size: 12px;
 }
 #transaction {
-margin-left: 78%;
+/*margin-left: 78%;*/
 
 
 /*background-color: rgb(255, 241, 168);*/
