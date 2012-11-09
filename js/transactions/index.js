@@ -152,7 +152,7 @@ function loadData() {
       Log.write('Building models...');
     },
     onProgress: function(e) {
-      Log.write('Loading airports data, please wait...' +
+      Log.write('Loading bank transactions directly from OPB data, please wait...' +
                 (e.total ? Math.round(e.loaded / e.total * 1000) / 10 : ''));
     },
     onError: function() {
@@ -229,7 +229,7 @@ function loadData() {
         if (data.airlinesRoutes[airlineId]) {
           callback();
         } else {
-          Log.write('Fetching data for airline...');
+          Log.write('Fetching data for banks...');
           new IO.XHR({
             url: './js/transactions/data/airlines/' + airlineId.replace(' ', '_') + '.json',
             onSuccess: function(json) {
@@ -238,7 +238,7 @@ function loadData() {
               Log.write('Done.', true);
             },
             onError: function() {
-              Log.write('There was an error while fetching data for airline: ' + airlineId, true);
+              Log.write('There was an error while fetching data for banks: ' + airlineId, true);
             }
           }).send();
         }
@@ -250,7 +250,7 @@ function loadData() {
 
     },
     onError: function() {
-      Log.write('There was an error while fetching airlines data.', true);
+      Log.write('There was an error while fetching banks data.', true);
     }
   }).send();
 }
