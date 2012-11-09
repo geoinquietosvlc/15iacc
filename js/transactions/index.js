@@ -1,24 +1,27 @@
 //Unpack modules
 PhiloGL.unpack();
 Scene.PICKING_RES = 1;
-var template = "<h1>{{this_account.holder}}</h1>" +
-            "<h1>{{this_account.number}}</h1>" +
-            "<h1>{{this_account.kind}}</h1>" +
-            "<h1>{{this_account.bank.IBAN}}</h1>" +
-            "<h1>{{this_account.bank.national_identifier}}</h1>" +
-            "<h1>{{this_account.bank.name}}</h1>" +
-            "<h1>{{other_account.holder}}</h1>" +
-            "<h1>{{other_account.number}}</h1>" +
-            "<h1>{{other_account.kind}}</h1>" +
-            "<h1>{{other_account.bank.IBAN}}</h1>" +
-            "<h1>{{other_account.bank.national_identifier}}</h1>" +
-            "<h1>{{other_account.bank.name}}</h1>" +
-            "<h1>{{details.posted}}</h1>" +
-            "<h1>{{details.completed}}</h1>" +
-            "<h1>{{details.new_balance.currency}}</h1>" +
-            "<h1>{{details.new_balance.amount}}</h1>" +
-            "<h1>{{details.value.currency}}</h1>" +
-            "<h1>{{details.value.amount}}</h1>"
+var template = "<h1> ORIGIN</h1>" +
+			"<p>Account Holder: {{this_account.holder}}</p>" +
+            "<p>Account Number: {{this_account.number}}</p>" +
+            "<h3>Status: {{this_account.kind}}</h1>" +
+            "<p>IBAN: {{this_account.bank.IBAN}}</p>" +
+            "<p>Bank Identifier: {{this_account.bank.national_identifier}}</p>" +
+            "<p>Bank Name: {{this_account.bank.name}}</p>" +
+			"<h1>DESTINY</h1>" +
+            "<p>Account Holder: {{other_account.holder}}</p>" +
+            "<p>Account Number: {{other_account.number}}</p>" +
+            "<h3>Status: {{other_account.kind}}</h1>" +
+            "<p>IBAN: {{other_account.bank.IBAN}}</p>" +
+            "<p>Bank Identifier: {{other_account.bank.national_identifier}}</p>" +
+            "<p>Bank Name: {{other_account.bank.name}}</p>" +
+			"<h1>DETAILS</h1>" +
+            "<h2>Time Posted: {{details.posted}}</h2>" +
+            "<h2>Time Completed: {{details.completed}}</h2>" +
+            "<h4>Account Currency: {{details.new_balance.currency}}</h4>" +
+            "<h3>Account Balance: {{details.new_balance.amount}}</h3>" +
+            "<h4>Transaction Currency: {{details.value.currency}}</h4>" +
+            "<h3>Transaction Amount: {{details.value.amount}}</h3>"
             ;
 
 //some locals
@@ -204,7 +207,7 @@ function loadData() {
               'margin-right': -300,
               top: 200,
               'margin-top' : -600,
-              'text-align' : 'right'
+              'text-align' : 'left'
             }).show().animate({'margin-right': "+=300"}, 2000, function(){});
             jQuery('#transaction').html(html);
           }
