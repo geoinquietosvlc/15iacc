@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Flow of Money
-tagline: Visualize Open Bank Transactions Flow
+title: Money Journey
+tagline: Visualizing transactions with Open Bank Project data
 ---
 {% include JB/setup %}
 
@@ -18,11 +18,6 @@ tagline: Visualize Open Bank Transactions Flow
     <div id="fallback" class="fallback"></div>
     
     <div id="container">
-      <div id="title">
-        <h1>Flow of Money</h1>
-        <div class="description">Visualize Open Bank Transactions Flow</div>
-      </div>
-
       <div class="canvas-container">
         <div id="canvas-wrapper">
           <canvas id="map-canvas" width="1024" height="1024"></canvas>
@@ -46,9 +41,9 @@ tagline: Visualize Open Bank Transactions Flow
     if (!PhiloGL.hasWebGL()) {
       document.body.className = 'no-webgl';
       document.getElementById('fallback').innerHTML = ''
-        +  '<div style="margin:10px;">'
-        +   'Your browser (or hardware) does not support WebGL. Go <a href="http://get.webgl.org">here</a> to find more information.'
+        +  '<div style="margin:10px;" class="alert alert-error">'
+        +   'Uh, that\'s embarrassing but your browser (or hardware) does not support WebGL. Go <a href="http://get.webgl.org">here</a> to find more information.'
         +  '</div>'
-        +   '<iframe width="853" height="510" src="http://www.youtube.com/embed/b263ETg5zqI" frameborder="0" allowfullscreen></iframe>';
+        +   '<img style="text-algin:center;width:500px;" src="{{BASE_PATH}}/assets/pantallazo.png"/>';
     }
   </script>
