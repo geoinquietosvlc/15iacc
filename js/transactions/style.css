@@ -208,3 +208,66 @@ canvas {
   right: 0;
   font-size: 12px;
 }
+#transaction {
+margin-left: 78%;
+
+
+/*background-color: rgb(255, 241, 168);*/
+/*  border: 1px solid #ccc;*/
+}
+#transaction h1{
+font-size: 25px;
+margin: 0; 
+margin-bottom: 15px;
+margin-top: 15px;  
+ /* font-size: 8px;
+  text-align: center;
+  margin: 10px auto;
+  padding: 3px;
+  background-color: rgb(255, 241, 168);
+  border: 1px solid #ccc;*/
+}
+#transaction h2{
+font-size: 18px;
+margin: 0;
+color:#4ECDC4;
+ /* font-size: 8px;
+  text-align: center;
+  margin: 10px auto;
+  padding: 3px;
+  background-color: rgb(255, 241, 168);
+  border: 1px solid #ccc;*/
+}
+#transaction h3{
+font-size: 18px;
+margin: 0; 
+color:#C7F464;
+ /* font-size: 8px;
+  text-align: center;
+  margin: 10px auto;
+  padding: 3px;
+  background-color: rgb(255, 241, 168);
+  border: 1px solid #ccc;*/
+}
+#transaction h4{
+font-size: 18px;
+margin: 0; 
+color:#FF6B6B;
+ /* font-size: 8px;
+  text-align: center;
+  margin: 10px auto;
+  padding: 3px;
+  background-color: rgb(255, 241, 168);
+  border: 1px solid #ccc;*/
+}
+#transaction p{
+font-size: 15px;
+margin: 0;
+
+ /* font-size: 8px;
+  text-align: center;
+  margin: 10px auto;
+  padding: 3px;
+  background-color: rgb(255, 241, 168);
+  border: 1px solid #ccc;*/
+}
