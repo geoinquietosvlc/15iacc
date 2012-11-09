@@ -3,9 +3,16 @@
   <head>
     <title>Open Bank transactions</title>
     <link rel="stylesheet" media="all" type="text/css" href="./js/transactions/style.css" />
+    <link rel="stylesheet" media="all" type="text/css" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css" />
+    
+    <script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
+    
     <script src="./js/philogl/PhiloGL.js"></script>
     <script src="./js/transactions/classes.js"></script>
     <script src="./js/transactions/index.js"></script>
+    <script src="./js/transactions/mustache.js"></script>
+
   </head>
   <body>
     <div id="log-panel" style="display:none;">
@@ -44,6 +51,9 @@
   </div>
   
   <div class="tooltip hide" id="tooltip" style="width:auto;"></div>
+
+  <div id="transaction"></div>
+
   
   <script>
     if (!PhiloGL.hasWebGL()) {
