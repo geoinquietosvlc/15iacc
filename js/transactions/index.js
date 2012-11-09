@@ -25,10 +25,8 @@ var template = "<h1> ORIGIN</h1>" +
 			"<h1>DETAILS</h1>" +
             "<h2>Time Posted: {{details.posted}}</h2>" +
             "<h2>Time Completed: {{details.completed}}</h2>" +
-            "<h4>Account Currency: {{details.new_balance.currency}}</h4>" +
-            "<h3>Account Balance: {{details.new_balance.amount}}</h3>" +
-            "<h4>Transaction Currency: {{details.value.currency}}</h4>" +
-            "<h3>Transaction Amount: {{details.value.amount}}</h3>"
+            "<h3>Account Balance: {{details.new_balance.amount}} {{details.new_balance.currency}}</h3>" +
+            "<h4>Transaction Amount: {{details.value.amount}} {{details.value.currency}}</h4>"
             ;
 
 //some locals
