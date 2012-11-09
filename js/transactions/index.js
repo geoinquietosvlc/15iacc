@@ -213,8 +213,9 @@ function loadData() {
             jQuery('#transaction').hide().css({
               'margin-right': -420,
               'margin-top' : -600,
-              'text-align' : 'right'
-            }).show().animate({'margin-right': "+=200"}, 2000, function(){});
+              'text-align' : 'left',
+              'margin-left' : "200%"
+            }).show().animate({'margin-right': "+=200", 'margin-left': "100%"}, 2000, function(){});
             jQuery('#transaction').html(html);
           }
 
