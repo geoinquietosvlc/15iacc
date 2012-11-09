@@ -9,26 +9,29 @@ String.prototype.visualLength = function()
 }
 
 var template = "<h1> ORIGIN</h1>" +
-			"<p>Account Holder: {{this_account.holder}}</p>" +
+			"<h2>Account Holder: {{this_account.holder}}</h2>" +
             "<p>Account Number: {{this_account.number}}</p>" +
             "<h3>Status: {{this_account.kind}}</h1>" +
             "<p>IBAN: {{this_account.bank.IBAN}}</p>" +
             "<p>Bank Identifier: {{this_account.bank.national_identifier}}</p>" +
             "<p>Bank Name: {{this_account.bank.name}}</p>" +
 			"<h1>DESTINY</h1>" +
-            "<p>Account Holder: {{other_account.holder}}</p>" +
+            "<h2>Account Holder: {{other_account.holder}}</h2>" +
             "<p>Account Number: {{other_account.number}}</p>" +
             "<h3>Status: {{other_account.kind}}</h1>" +
             "<p>IBAN: {{other_account.bank.IBAN}}</p>" +
             "<p>Bank Identifier: {{other_account.bank.national_identifier}}</p>" +
             "<p>Bank Name: {{other_account.bank.name}}</p>" +
 			"<h1>DETAILS</h1>" +
-            "<h2>Time Posted: {{details.posted}}</h2>" +
-            "<h2>Time Completed: {{details.completed}}</h2>" +
+            "<p>Time Posted: {{details.posted}}</p>" +
+            "<p>Time Completed: {{details.completed}}</p>" +
             "<h3>Account Balance: {{details.new_balance.amount}} {{details.new_balance.currency}}</h3>" +
             "<h4>Transaction Amount: {{details.value.amount}} {{details.value.currency}}</h4>"
             ;
 
+jQuery(document).ready(function() {
+  jQuery("footer").remove();
+});
 //some locals
 var $ = function(id) { return document.getElementById(id); },
     $$ = function(selector) { return document.querySelectorAll(selector); },
