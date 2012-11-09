@@ -421,7 +421,7 @@ function createApp() {
       onMouseWheel: function(e) {
         var camera = this.camera,
             from = -5.125,
-            to = -2.95,
+            to = -1.5,
             pos = camera.position,
             pz = pos.z,
             speed = (1 - Math.abs((pz - from) / (to - from) * 2 - 1)) / 6 + 0.001;
