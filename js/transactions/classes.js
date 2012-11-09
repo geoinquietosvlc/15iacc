@@ -112,6 +112,17 @@ RightMenu.prototype = {
         color = airlineMgr.getColor(airlineId) || airlineMgr.getAvailableColor();
 
     if (checkbox.checked) {
+      var transaction = data.airlinesRoutes[airlineId];
+      var dataTransaction = transaction[0][5];
+
+      var template = "<h1>{{this_account.bank.name}}</h1>";
+      var html = Mustache.to_html(template, dataTransaction);
+      jQuery('#transaction').html(html)
+      .css({
+        'diplay' : 'block'
+      });
+      
+      
       this.selectedAirlines.innerHTML += '<li id=\'' + airlineId + '-selected\'>' +
         '<input type=\'checkbox\' checked id=\'' + airlineId + '-checkbox-selected\' />' + 
         '<div class=\'square\' style=\'background-color:rgb(' + color + ');\' ></div>' + 
