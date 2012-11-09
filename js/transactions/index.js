@@ -57,7 +57,7 @@ document.onreadystatechange = function() {
   }
 };
 
-var imgPath = "js/transactions/img/earth.jpg";
+var imgPath = "js/transactions/img/world_iacc.jpg";
 
 //Create earth
 models.earth = new O3D.Sphere({
