@@ -452,6 +452,7 @@ function createApp() {
           style.top = (e.y + 10 + bbox.top) + 'px';
           style.left = (e.x + 5 + bbox.left) + 'px';
           this.tooltip.className = 'tooltip show';
+          this.tooltip.style.opacity = "100";
 
           this.tooltip.innerHTML = textName;
         }
