@@ -13,15 +13,15 @@ This is a prototype of a client for the API of the [Open Bank Project](http://op
 The aim of this prototype is experiment with visualization techniques using WebGL and a 3D globe to explore the data of banks, accounts and transactions provided by the new Open Bank Project API.
 
 <div style="text-align:center;">
-	<img style="margin:5px;" width="150px" src="/assets/OBP_logo.png">
-	<img style="margin:5px;" src="/assets/15iacc.jpg">
+	<img style="margin:5px;" width="150px" src="{{BASE_PATH}}/assets/OBP_logo.png">
+	<img style="margin:5px;" src="{{BASE_PATH}}/assets/15iacc.jpg">
 </div>
 
 ## Who we are
 
 <div class="media">
   <a class="pull-left" href="#">
-    <img width="70px" class="media-object" src="/assets/dani.jpg">
+    <img width="70px" class="media-object" src="{{BASE_PATH}}/assets/dani.jpg">
   </a>
   <div class="media-body">
     <h4 class="media-heading">Daniel Gastón</h4>
@@ -31,7 +31,7 @@ The aim of this prototype is experiment with visualization techniques using WebG
 </div>
 <div class="media">
   <a class="pull-left" href="#">
-    <img width="70px" class="media-object" src="/assets/alberto.jpg">
+    <img width="70px" class="media-object" src="{{BASE_PATH}}/assets/alberto.jpg">
   </a>
   <div class="media-body">
     <h4 class="media-heading">Alberto Romeu</h4>
@@ -41,7 +41,7 @@ The aim of this prototype is experiment with visualization techniques using WebG
 </div>
 <div class="media">
   <a class="pull-left" href="#">
-    <img width="70px" class="media-object" src="/assets/jorge.jpg">
+    <img width="70px" class="media-object" src="{{BASE_PATH}}/assets/jorge.jpg">
   </a>
   <div class="media-body">
     <h4 class="media-heading">Jorge Sanz</h4>
