@@ -295,7 +295,7 @@ var AirlineManager = function(data, models) {
       model.uniforms.animate = true;
       this.app.scene.add(model);
       model.fx.start({
-        delay: 0,
+        delay: 1500,
         duration: 5800,
         onCompute: function(delta) {
           model.uniforms.delta = delta;

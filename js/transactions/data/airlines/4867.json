@@ -1,1 +1,4442 @@
-[["Banco do Brasil", "araxa", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "araxa", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "buenos aires", "argentina", "sao paulo", "brazil", "0"], ["Banco do Brasil", "buenos aires", "argentina", "porto alegre", "brazil", "0"], ["Banco do Brasil", "alta floresta", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "ciudad del este", "paraguay", "sao paulo", "brazil", "0"], ["Banco do Brasil", "aracaju", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "aracaju", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "aracaju", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "aracaju", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "aracatuba", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "aracatuba", "brazil", "sao jose do rio preto", "brazil", "0"], ["Banco do Brasil", "asuncion", "paraguay", "ciudad del este", "paraguay", "0"], ["Banco do Brasil", "asuncion", "paraguay", "sao paulo", "brazil", "0"], ["Banco do Brasil", "altamira", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "altamira", "brazil", "santarem", "brazil", "0"], ["Banco do Brasil", "araguaina", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "araguaina", "brazil", "parauapebas", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "altamira", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "parauapebas", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "fortaleza", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "maraba", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "macapa", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "sao luis", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "santarem", "brazil", "0"], ["Banco do Brasil", "belem", "brazil", "tucurui", "brazil", "0"], ["Banco do Brasil", "bogota", "colombia", "sao paulo", "brazil", "0"], ["Banco do Brasil", "porto seguro", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "porto seguro", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "porto seguro", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "porto seguro", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "barreiras", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "araguaina", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "barreiras", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "campo grande", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "florianopolis", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "fortaleza", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "imperatriz", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "joao pessoa", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "lisbon", "portugal", "0"], ["Banco do Brasil", "brasilia", "brazil", "maraba", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "maceio", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "miami", "united states", "0"], ["Banco do Brasil", "brasilia", "brazil", "natal", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "palmas", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "petrolina", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "porto velho", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "ribeirao preto", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "rio branco", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "sao jose do rio preto", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "sao luis", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "teresina", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "uberlandia", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "campinas", "brazil", "0"], ["Banco do Brasil", "brasilia", "brazil", "vitoria", "brazil", "0"], ["Banco do Brasil", "boa vista", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "vilhena", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "vilhena", "brazil", "ji-paran\u00c3\u00a1", "brazil", "0"], ["Banco do Brasil", "cascavel", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "cascavel", "brazil", "maringa", "brazil", "0"], ["Banco do Brasil", "caracas", "venezuela", "sao paulo", "brazil", "0"], ["Banco do Brasil", "paris", "france", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "paris", "france", "sao paulo", "brazil", "0"], ["Banco do Brasil", "cabo frio", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "alta floresta", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "vilhena", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "campo grande", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "foz do iguacu", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "ji-paran\u00c3\u00a1", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "londrina", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "maringa", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "sinop", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "porto velho", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "rondonopolis", "brazil", "0"], ["Banco do Brasil", "cuiaba", "brazil", "sao jose do rio preto", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "porto seguro", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "campo grande", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "florianopolis", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "ilheus", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "joinville", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "londrina", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "navegantes", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "ribeirao preto", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "sao jose do rio preto", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "uberlandia", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "vitoria", "brazil", "0"], ["Banco do Brasil", "campo grande", "brazil", "aracatuba", "brazil", "0"], ["Banco do Brasil", "campo grande", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "campo grande", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "campo grande", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "campo grande", "brazil", "corumba", "brazil", "0"], ["Banco do Brasil", "campo grande", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "campo grande", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "campo grande", "brazil", "londrina", "brazil", "0"], ["Banco do Brasil", "campo grande", "brazil", "maringa", "brazil", "0"], ["Banco do Brasil", "campo grande", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "parauapebas", "brazil", "araguaina", "brazil", "0"], ["Banco do Brasil", "parauapebas", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "parauapebas", "brazil", "tucurui", "brazil", "0"], ["Banco do Brasil", "corumba", "brazil", "campo grande", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "porto seguro", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "maceio", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "miami", "united states", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "campinas", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "vitoria", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "cascavel", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "foz do iguacu", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "londrina", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "maringa", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "campinas", "brazil", "0"], ["Banco do Brasil", "curitiba", "brazil", "chapeco", "brazil", "0"], ["Banco do Brasil", "cruiziro do sul", "brazil", "rio branco", "brazil", "0"], ["Banco do Brasil", "dourados", "brazil", "cascavel", "brazil", "0"], ["Banco do Brasil", "dublin", "ireland", "london", "united kingdom", "0"], ["Banco do Brasil", "erechim", "brazil", "joacaba", "brazil", "0"], ["Banco do Brasil", "erechim", "brazil", "passo fundo", "brazil", "0"], ["Banco do Brasil", "erechim", "brazil", "chapeco", "brazil", "0"], ["Banco do Brasil", "buenos aires", "argentina", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "buenos aires", "argentina", "sao paulo", "brazil", "0"], ["Banco do Brasil", "fernando do noronha", "brazil", "natal", "brazil", "0"], ["Banco do Brasil", "fernando do noronha", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "florianopolis", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "florianopolis", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "florianopolis", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "florianopolis", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "florianopolis", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "florianopolis", "brazil", "campinas", "brazil", "0"], ["Banco do Brasil", "fortaleza", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "fortaleza", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "fortaleza", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "fortaleza", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "fortaleza", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "fortaleza", "brazil", "natal", "brazil", "0"], ["Banco do Brasil", "fortaleza", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "fortaleza", "brazil", "sao luis", "brazil", "0"], ["Banco do Brasil", "fortaleza", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "fortaleza", "brazil", "teresina", "brazil", "0"], ["Banco do Brasil", "frankfurt", "germany", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "frankfurt", "germany", "sao paulo", "brazil", "0"], ["Banco do Brasil", "santo angelo", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "santo angelo", "brazil", "santa maria", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "paris", "france", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "buenos aires", "argentina", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "florianopolis", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "fortaleza", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "frankfurt", "germany", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "houston", "united states", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "foz do iguacu", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "new york", "united states", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "joao pessoa", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "london", "united kingdom", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "lisbon", "portugal", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "miami", "united states", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "natal", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "porto", "portugal", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "sao luis", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "campinas", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "vitoria", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "araxa", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "buenos aires", "argentina", "0"], ["Banco do Brasil", "sao paulo", "brazil", "ciudad del este", "paraguay", "0"], ["Banco do Brasil", "sao paulo", "brazil", "aracaju", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "aracatuba", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "asuncion", "paraguay", "0"], ["Banco do Brasil", "sao paulo", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "bogota", "colombia", "0"], ["Banco do Brasil", "sao paulo", "brazil", "porto seguro", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "caracas", "venezuela", "0"], ["Banco do Brasil", "sao paulo", "brazil", "paris", "france", "0"], ["Banco do Brasil", "sao paulo", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "campo grande", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "buenos aires", "argentina", "0"], ["Banco do Brasil", "sao paulo", "brazil", "florianopolis", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "fortaleza", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "frankfurt", "germany", "0"], ["Banco do Brasil", "sao paulo", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "washington", "united states", "0"], ["Banco do Brasil", "sao paulo", "brazil", "houston", "united states", "0"], ["Banco do Brasil", "sao paulo", "brazil", "foz do iguacu", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "ilheus", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "ipatinga", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "juiz de fora", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "new york", "united states", "0"], ["Banco do Brasil", "sao paulo", "brazil", "joinville", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "joao pessoa", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "london", "united kingdom", "0"], ["Banco do Brasil", "sao paulo", "brazil", "lima", "peru", "0"], ["Banco do Brasil", "sao paulo", "brazil", "lisbon", "portugal", "0"], ["Banco do Brasil", "sao paulo", "brazil", "madrid", "spain", "0"], ["Banco do Brasil", "sao paulo", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "orlando", "united states", "0"], ["Banco do Brasil", "sao paulo", "brazil", "maceio", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "maringa", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "miami", "united states", "0"], ["Banco do Brasil", "sao paulo", "brazil", "mar\u00c3\u00adlia", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "munich", "germany", "0"], ["Banco do Brasil", "sao paulo", "brazil", "montevideo", "uruguay", "0"], ["Banco do Brasil", "sao paulo", "brazil", "milano", "italy", "0"], ["Banco do Brasil", "sao paulo", "brazil", "natal", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "porto", "portugal", "0"], ["Banco do Brasil", "sao paulo", "brazil", "chicago", "united states", "0"], ["Banco do Brasil", "sao paulo", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "ribeirao preto", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "santiago", "chile", "0"], ["Banco do Brasil", "sao paulo", "brazil", "sao jose do rio preto", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "sao luis", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "teresina", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "uberaba", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "uberlandia", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "vitoria", "brazil", "0"], ["Banco do Brasil", "sao paulo", "brazil", "toronto", "canada", "0"], ["Banco do Brasil", "governador valadares", "brazil", "ipatinga", "brazil", "0"], ["Banco do Brasil", "governador valadares", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "governador valadares", "brazil", "vitoria", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "campo grande", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "palmas", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "ribeirao preto", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "rio verde", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "goiania", "brazil", "uberlandia", "brazil", "0"], ["Banco do Brasil", "washington", "united states", "sao paulo", "brazil", "0"], ["Banco do Brasil", "houston", "united states", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "houston", "united states", "sao paulo", "brazil", "0"], ["Banco do Brasil", "foz do iguacu", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "foz do iguacu", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "foz do iguacu", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "foz do iguacu", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "foz do iguacu", "brazil", "londrina", "brazil", "0"], ["Banco do Brasil", "foz do iguacu", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "imperatriz", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "imperatriz", "brazil", "sao luis", "brazil", "0"], ["Banco do Brasil", "ilheus", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "ilheus", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "ilheus", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "ilheus", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "ilheus", "brazil", "vitoria", "brazil", "0"], ["Banco do Brasil", "ipatinga", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "ipatinga", "brazil", "governador valadares", "brazil", "0"], ["Banco do Brasil", "ipatinga", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "joacaba", "brazil", "erechim", "brazil", "0"], ["Banco do Brasil", "juiz de fora", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "new york", "united states", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "new york", "united states", "sao paulo", "brazil", "0"], ["Banco do Brasil", "joinville", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "joinville", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "joao pessoa", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "joao pessoa", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "joao pessoa", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "ji-paran\u00c3\u00a1", "brazil", "vilhena", "brazil", "0"], ["Banco do Brasil", "ji-paran\u00c3\u00a1", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "ji-paran\u00c3\u00a1", "brazil", "porto velho", "brazil", "0"], ["Banco do Brasil", "londrina", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "londrina", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "londrina", "brazil", "campo grande", "brazil", "0"], ["Banco do Brasil", "londrina", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "londrina", "brazil", "foz do iguacu", "brazil", "0"], ["Banco do Brasil", "londrina", "brazil", "maringa", "brazil", "0"], ["Banco do Brasil", "len\u00c3\u00a7\u00c3\u00b3is", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "london", "united kingdom", "dublin", "ireland", "0"], ["Banco do Brasil", "london", "united kingdom", "edinburgh", "united kingdom", "0"], ["Banco do Brasil", "london", "united kingdom", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "london", "united kingdom", "sao paulo", "brazil", "0"], ["Banco do Brasil", "lima", "peru", "sao paulo", "brazil", "0"], ["Banco do Brasil", "lisbon", "portugal", "brasilia", "brazil", "0"], ["Banco do Brasil", "lisbon", "portugal", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "lisbon", "portugal", "sao paulo", "brazil", "0"], ["Banco do Brasil", "lisbon", "portugal", "campinas", "brazil", "0"], ["Banco do Brasil", "maraba", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "maraba", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "madrid", "spain", "sao paulo", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "boa vista", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "fortaleza", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "miami", "united states", "0"], ["Banco do Brasil", "manaus", "brazil", "parintins", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "porto velho", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "santarem", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "tabatinga", "brazil", "0"], ["Banco do Brasil", "manaus", "brazil", "tefe", "brazil", "0"], ["Banco do Brasil", "orlando", "united states", "sao paulo", "brazil", "0"], ["Banco do Brasil", "macapa", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "maceio", "brazil", "aracaju", "brazil", "0"], ["Banco do Brasil", "maceio", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "maceio", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "maceio", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "maceio", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "maceio", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "maringa", "brazil", "cascavel", "brazil", "0"], ["Banco do Brasil", "maringa", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "maringa", "brazil", "campo grande", "brazil", "0"], ["Banco do Brasil", "maringa", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "maringa", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "maringa", "brazil", "londrina", "brazil", "0"], ["Banco do Brasil", "miami", "united states", "brasilia", "brazil", "0"], ["Banco do Brasil", "miami", "united states", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "miami", "united states", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "miami", "united states", "sao paulo", "brazil", "0"], ["Banco do Brasil", "miami", "united states", "manaus", "brazil", "0"], ["Banco do Brasil", "mar\u00c3\u00adlia", "brazil", "president prudente", "brazil", "0"], ["Banco do Brasil", "montes claros", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "munich", "germany", "sao paulo", "brazil", "0"], ["Banco do Brasil", "montevideo", "uruguay", "sao paulo", "brazil", "0"], ["Banco do Brasil", "montevideo", "uruguay", "porto alegre", "brazil", "0"], ["Banco do Brasil", "milano", "italy", "sao paulo", "brazil", "0"], ["Banco do Brasil", "natal", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "natal", "brazil", "fernando do noronha", "brazil", "0"], ["Banco do Brasil", "natal", "brazil", "fortaleza", "brazil", "0"], ["Banco do Brasil", "natal", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "natal", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "natal", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "natal", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "navegantes", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "porto", "portugal", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "porto", "portugal", "sao paulo", "brazil", "0"], ["Banco do Brasil", "sinop", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "chicago", "united states", "sao paulo", "brazil", "0"], ["Banco do Brasil", "pelotas", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "pelotas", "brazil", "rio grande", "brazil", "0"], ["Banco do Brasil", "passo fundo", "brazil", "erechim", "brazil", "0"], ["Banco do Brasil", "passo fundo", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "parintins", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "governador valadares", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "ipatinga", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "montes claros", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "sao jose dos campos", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "uberaba", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "uberlandia", "brazil", "0"], ["Banco do Brasil", "belo horizonte", "brazil", "vit\u00c3\u00b3ria da conquista", "brazil", "0"], ["Banco do Brasil", "palmas", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "palmas", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "petrolina", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "petrolina", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "petrolina", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "buenos aires", "argentina", "0"], ["Banco do Brasil", "porto alegre", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "florianopolis", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "foz do iguacu", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "montevideo", "uruguay", "0"], ["Banco do Brasil", "porto alegre", "brazil", "passo fundo", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "santa maria", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "rio grande", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "porto alegre", "brazil", "santa rosa", "brazil", "0"], ["Banco do Brasil", "president prudente", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "porto velho", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "porto velho", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "porto velho", "brazil", "ji-paran\u00c3\u00a1", "brazil", "0"], ["Banco do Brasil", "porto velho", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "porto velho", "brazil", "rio branco", "brazil", "0"], ["Banco do Brasil", "ribeirao preto", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "ribeirao preto", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "ribeirao preto", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "ribeirao preto", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "ribeirao preto", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "ribeirao preto", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "ribeirao preto", "brazil", "sao jose do rio preto", "brazil", "0"], ["Banco do Brasil", "ribeirao preto", "brazil", "uberaba", "brazil", "0"], ["Banco do Brasil", "ribeirao preto", "brazil", "uberlandia", "brazil", "0"], ["Banco do Brasil", "rio branco", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "rio branco", "brazil", "cruiziro do sul", "brazil", "0"], ["Banco do Brasil", "rio branco", "brazil", "porto velho", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "aracaju", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "fernando do noronha", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "fortaleza", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "joao pessoa", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "maceio", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "natal", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "petrolina", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "recife", "brazil", "campinas", "brazil", "0"], ["Banco do Brasil", "santa maria", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "rio grande", "brazil", "pelotas", "brazil", "0"], ["Banco do Brasil", "rio grande", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "rondonopolis", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "rondonopolis", "brazil", "maringa", "brazil", "0"], ["Banco do Brasil", "rio verde", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "rio verde", "brazil", "uberlandia", "brazil", "0"], ["Banco do Brasil", "santiago", "chile", "sao paulo", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "aracaju", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "cabo frio", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "campo grande", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "ilheus", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "porto alegre", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "ribeirao preto", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "sao jose dos campos", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "sao jose do rio preto", "brazil", "0"], ["Banco do Brasil", "rio de janeiro", "brazil", "vitoria", "brazil", "0"], ["Banco do Brasil", "sao jose dos campos", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "sao jose do rio preto", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "sao jose do rio preto", "brazil", "cuiaba", "brazil", "0"], ["Banco do Brasil", "sao jose do rio preto", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "sao jose do rio preto", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "sao jose do rio preto", "brazil", "ribeirao preto", "brazil", "0"], ["Banco do Brasil", "sao jose do rio preto", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "sao luis", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "sao luis", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "sao luis", "brazil", "fortaleza", "brazil", "0"], ["Banco do Brasil", "sao luis", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "sao luis", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "sao luis", "brazil", "imperatriz", "brazil", "0"], ["Banco do Brasil", "sao luis", "brazil", "teresina", "brazil", "0"], ["Banco do Brasil", "santa rosa", "brazil", "santo angelo", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "aracaju", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "porto seguro", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "fortaleza", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "ilheus", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "len\u00c3\u00a7\u00c3\u00b3is", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "maceio", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "natal", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "petrolina", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "campinas", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "vit\u00c3\u00b3ria da conquista", "brazil", "0"], ["Banco do Brasil", "salvador", "brazil", "vitoria", "brazil", "0"], ["Banco do Brasil", "santarem", "brazil", "altamira", "brazil", "0"], ["Banco do Brasil", "santarem", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "santarem", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "santarem", "brazil", "parintins", "brazil", "0"], ["Banco do Brasil", "tabatinga", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "tefe", "brazil", "manaus", "brazil", "0"], ["Banco do Brasil", "teresina", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "teresina", "brazil", "fortaleza", "brazil", "0"], ["Banco do Brasil", "teresina", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "teresina", "brazil", "sao luis", "brazil", "0"], ["Banco do Brasil", "tucurui", "brazil", "belem", "brazil", "0"], ["Banco do Brasil", "tucurui", "brazil", "parauapebas", "brazil", "0"], ["Banco do Brasil", "uberaba", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "uberaba", "brazil", "ribeirao preto", "brazil", "0"], ["Banco do Brasil", "uberaba", "brazil", "uberlandia", "brazil", "0"], ["Banco do Brasil", "uberlandia", "brazil", "araxa", "brazil", "0"], ["Banco do Brasil", "uberlandia", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "uberlandia", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "uberlandia", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "uberlandia", "brazil", "goiania", "brazil", "0"], ["Banco do Brasil", "uberlandia", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "uberlandia", "brazil", "ribeirao preto", "brazil", "0"], ["Banco do Brasil", "uberlandia", "brazil", "rio verde", "brazil", "0"], ["Banco do Brasil", "uberlandia", "brazil", "uberaba", "brazil", "0"], ["Banco do Brasil", "uruguaiana", "brazil", "santa maria", "brazil", "0"], ["Banco do Brasil", "campinas", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "campinas", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "campinas", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "campinas", "brazil", "florianopolis", "brazil", "0"], ["Banco do Brasil", "campinas", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "campinas", "brazil", "lisbon", "portugal", "0"], ["Banco do Brasil", "campinas", "brazil", "recife", "brazil", "0"], ["Banco do Brasil", "campinas", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "vit\u00c3\u00b3ria da conquista", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "vit\u00c3\u00b3ria da conquista", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "vitoria", "brazil", "brasilia", "brazil", "0"], ["Banco do Brasil", "vitoria", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "vitoria", "brazil", "belo horizonte", "brazil", "0"], ["Banco do Brasil", "vitoria", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "vitoria", "brazil", "sao paulo", "brazil", "0"], ["Banco do Brasil", "vitoria", "brazil", "governador valadares", "brazil", "0"], ["Banco do Brasil", "vitoria", "brazil", "ilheus", "brazil", "0"], ["Banco do Brasil", "vitoria", "brazil", "rio de janeiro", "brazil", "0"], ["Banco do Brasil", "vitoria", "brazil", "salvador", "brazil", "0"], ["Banco do Brasil", "chapeco", "brazil", "curitiba", "brazil", "0"], ["Banco do Brasil", "chapeco", "brazil", "erechim", "brazil", "0"], ["Banco do Brasil", "toronto", "canada", "sao paulo", "brazil", "0"]]
+[
+    [
+        "Banco do Brasil",
+        "araxa",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "araxa",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "buenos aires",
+        "argentina",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "buenos aires",
+        "argentina",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "alta floresta",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ciudad del este",
+        "paraguay",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "aracaju",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "aracaju",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "aracaju",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "aracaju",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "aracatuba",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "aracatuba",
+        "brazil",
+        "sao jose do rio preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "asuncion",
+        "paraguay",
+        "ciudad del este",
+        "paraguay",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "asuncion",
+        "paraguay",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "altamira",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "altamira",
+        "brazil",
+        "santarem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "araguaina",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "araguaina",
+        "brazil",
+        "parauapebas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "altamira",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "parauapebas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "fortaleza",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "maraba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "macapa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "sao luis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "santarem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belem",
+        "brazil",
+        "tucurui",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "bogota",
+        "colombia",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto seguro",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto seguro",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto seguro",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto seguro",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "barreiras",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "araguaina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "barreiras",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "campo grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "florianopolis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "fortaleza",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "imperatriz",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "joao pessoa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "lisbon",
+        "portugal",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "maraba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "maceio",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "miami",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "natal",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "palmas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "petrolina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "porto velho",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "ribeirao preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "rio branco",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "sao jose do rio preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "sao luis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "teresina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "uberlandia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "campinas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "brasilia",
+        "brazil",
+        "vitoria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "boa vista",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vilhena",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vilhena",
+        "brazil",
+        "ji-paranÃ¡",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cascavel",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cascavel",
+        "brazil",
+        "maringa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "caracas",
+        "venezuela",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "paris",
+        "france",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "paris",
+        "france",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cabo frio",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "alta floresta",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "vilhena",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "campo grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "foz do iguacu",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "ji-paranÃ¡",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "londrina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "maringa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "sinop",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "porto velho",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "rondonopolis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cuiaba",
+        "brazil",
+        "sao jose do rio preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "porto seguro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "campo grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "florianopolis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "ilheus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "joinville",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "londrina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "navegantes",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "ribeirao preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "sao jose do rio preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "uberlandia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "vitoria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campo grande",
+        "brazil",
+        "aracatuba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campo grande",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campo grande",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campo grande",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campo grande",
+        "brazil",
+        "corumba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campo grande",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campo grande",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campo grande",
+        "brazil",
+        "londrina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campo grande",
+        "brazil",
+        "maringa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campo grande",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "parauapebas",
+        "brazil",
+        "araguaina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "parauapebas",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "parauapebas",
+        "brazil",
+        "tucurui",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "corumba",
+        "brazil",
+        "campo grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "porto seguro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "maceio",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "miami",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "campinas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "vitoria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "cascavel",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "foz do iguacu",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "londrina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "maringa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "campinas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "curitiba",
+        "brazil",
+        "chapeco",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "cruiziro do sul",
+        "brazil",
+        "rio branco",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "dourados",
+        "brazil",
+        "cascavel",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "dublin",
+        "ireland",
+        "london",
+        "united kingdom",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "erechim",
+        "brazil",
+        "joacaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "erechim",
+        "brazil",
+        "passo fundo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "erechim",
+        "brazil",
+        "chapeco",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "buenos aires",
+        "argentina",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "buenos aires",
+        "argentina",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fernando do noronha",
+        "brazil",
+        "natal",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fernando do noronha",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "florianopolis",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "florianopolis",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "florianopolis",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "florianopolis",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "florianopolis",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "florianopolis",
+        "brazil",
+        "campinas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fortaleza",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fortaleza",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fortaleza",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fortaleza",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fortaleza",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fortaleza",
+        "brazil",
+        "natal",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fortaleza",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fortaleza",
+        "brazil",
+        "sao luis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fortaleza",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "fortaleza",
+        "brazil",
+        "teresina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "frankfurt",
+        "germany",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "frankfurt",
+        "germany",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "santo angelo",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "santo angelo",
+        "brazil",
+        "santa maria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "paris",
+        "france",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "buenos aires",
+        "argentina",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "florianopolis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "fortaleza",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "frankfurt",
+        "germany",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "houston",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "foz do iguacu",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "new york",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "joao pessoa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "london",
+        "united kingdom",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "lisbon",
+        "portugal",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "miami",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "natal",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "porto",
+        "portugal",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "sao luis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "campinas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "vitoria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "araxa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "buenos aires",
+        "argentina",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "ciudad del este",
+        "paraguay",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "aracaju",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "aracatuba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "asuncion",
+        "paraguay",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "bogota",
+        "colombia",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "porto seguro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "caracas",
+        "venezuela",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "paris",
+        "france",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "campo grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "buenos aires",
+        "argentina",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "florianopolis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "fortaleza",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "frankfurt",
+        "germany",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "washington",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "houston",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "foz do iguacu",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "ilheus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "ipatinga",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "juiz de fora",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "new york",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "joinville",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "joao pessoa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "london",
+        "united kingdom",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "lima",
+        "peru",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "lisbon",
+        "portugal",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "madrid",
+        "spain",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "orlando",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "maceio",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "maringa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "miami",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "marÃ­lia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "munich",
+        "germany",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "montevideo",
+        "uruguay",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "milano",
+        "italy",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "natal",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "porto",
+        "portugal",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "chicago",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "ribeirao preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "santiago",
+        "chile",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "sao jose do rio preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "sao luis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "teresina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "uberaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "uberlandia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "vitoria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao paulo",
+        "brazil",
+        "toronto",
+        "canada",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "governador valadares",
+        "brazil",
+        "ipatinga",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "governador valadares",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "governador valadares",
+        "brazil",
+        "vitoria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "campo grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "palmas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "ribeirao preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "rio verde",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "goiania",
+        "brazil",
+        "uberlandia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "washington",
+        "united states",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "houston",
+        "united states",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "houston",
+        "united states",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "foz do iguacu",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "foz do iguacu",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "foz do iguacu",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "foz do iguacu",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "foz do iguacu",
+        "brazil",
+        "londrina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "foz do iguacu",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "imperatriz",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "imperatriz",
+        "brazil",
+        "sao luis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ilheus",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ilheus",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ilheus",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ilheus",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ilheus",
+        "brazil",
+        "vitoria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ipatinga",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ipatinga",
+        "brazil",
+        "governador valadares",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ipatinga",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "joacaba",
+        "brazil",
+        "erechim",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "juiz de fora",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "new york",
+        "united states",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "new york",
+        "united states",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "joinville",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "joinville",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "joao pessoa",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "joao pessoa",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "joao pessoa",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ji-paranÃ¡",
+        "brazil",
+        "vilhena",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ji-paranÃ¡",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ji-paranÃ¡",
+        "brazil",
+        "porto velho",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "londrina",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "londrina",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "londrina",
+        "brazil",
+        "campo grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "londrina",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "londrina",
+        "brazil",
+        "foz do iguacu",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "londrina",
+        "brazil",
+        "maringa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "lenÃ§Ã³is",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "london",
+        "united kingdom",
+        "dublin",
+        "ireland",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "london",
+        "united kingdom",
+        "edinburgh",
+        "united kingdom",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "london",
+        "united kingdom",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "london",
+        "united kingdom",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "lima",
+        "peru",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "lisbon",
+        "portugal",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "lisbon",
+        "portugal",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "lisbon",
+        "portugal",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "lisbon",
+        "portugal",
+        "campinas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maraba",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maraba",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "madrid",
+        "spain",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "boa vista",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "fortaleza",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "miami",
+        "united states",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "parintins",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "porto velho",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "santarem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "tabatinga",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "manaus",
+        "brazil",
+        "tefe",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "orlando",
+        "united states",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "macapa",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maceio",
+        "brazil",
+        "aracaju",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maceio",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maceio",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maceio",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maceio",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maceio",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maringa",
+        "brazil",
+        "cascavel",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maringa",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maringa",
+        "brazil",
+        "campo grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maringa",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maringa",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "maringa",
+        "brazil",
+        "londrina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "miami",
+        "united states",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "miami",
+        "united states",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "miami",
+        "united states",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "miami",
+        "united states",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "miami",
+        "united states",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "marÃ­lia",
+        "brazil",
+        "president prudente",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "montes claros",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "munich",
+        "germany",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "montevideo",
+        "uruguay",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "montevideo",
+        "uruguay",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "milano",
+        "italy",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "natal",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "natal",
+        "brazil",
+        "fernando do noronha",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "natal",
+        "brazil",
+        "fortaleza",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "natal",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "natal",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "natal",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "natal",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "navegantes",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto",
+        "portugal",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto",
+        "portugal",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sinop",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "chicago",
+        "united states",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "pelotas",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "pelotas",
+        "brazil",
+        "rio grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "passo fundo",
+        "brazil",
+        "erechim",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "passo fundo",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "parintins",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "governador valadares",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "ipatinga",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "montes claros",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "sao jose dos campos",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "uberaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "uberlandia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "belo horizonte",
+        "brazil",
+        "vitÃ³ria da conquista",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "palmas",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "palmas",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "petrolina",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "petrolina",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "petrolina",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "buenos aires",
+        "argentina",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "florianopolis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "foz do iguacu",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "montevideo",
+        "uruguay",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "passo fundo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "santa maria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "rio grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto alegre",
+        "brazil",
+        "santa rosa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "president prudente",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto velho",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto velho",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto velho",
+        "brazil",
+        "ji-paranÃ¡",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto velho",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "porto velho",
+        "brazil",
+        "rio branco",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ribeirao preto",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ribeirao preto",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ribeirao preto",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ribeirao preto",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ribeirao preto",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ribeirao preto",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ribeirao preto",
+        "brazil",
+        "sao jose do rio preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ribeirao preto",
+        "brazil",
+        "uberaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "ribeirao preto",
+        "brazil",
+        "uberlandia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio branco",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio branco",
+        "brazil",
+        "cruiziro do sul",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio branco",
+        "brazil",
+        "porto velho",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "aracaju",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "fernando do noronha",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "fortaleza",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "joao pessoa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "maceio",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "natal",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "petrolina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "recife",
+        "brazil",
+        "campinas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "santa maria",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio grande",
+        "brazil",
+        "pelotas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio grande",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rondonopolis",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rondonopolis",
+        "brazil",
+        "maringa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio verde",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio verde",
+        "brazil",
+        "uberlandia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "santiago",
+        "chile",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "aracaju",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "cabo frio",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "campo grande",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "ilheus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "porto alegre",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "ribeirao preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "sao jose dos campos",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "sao jose do rio preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "rio de janeiro",
+        "brazil",
+        "vitoria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao jose dos campos",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao jose do rio preto",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao jose do rio preto",
+        "brazil",
+        "cuiaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao jose do rio preto",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao jose do rio preto",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao jose do rio preto",
+        "brazil",
+        "ribeirao preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao jose do rio preto",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao luis",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao luis",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao luis",
+        "brazil",
+        "fortaleza",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao luis",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao luis",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao luis",
+        "brazil",
+        "imperatriz",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "sao luis",
+        "brazil",
+        "teresina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "santa rosa",
+        "brazil",
+        "santo angelo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "aracaju",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "porto seguro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "fortaleza",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "ilheus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "lenÃ§Ã³is",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "maceio",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "natal",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "petrolina",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "campinas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "vitÃ³ria da conquista",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "salvador",
+        "brazil",
+        "vitoria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "santarem",
+        "brazil",
+        "altamira",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "santarem",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "santarem",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "santarem",
+        "brazil",
+        "parintins",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "tabatinga",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "tefe",
+        "brazil",
+        "manaus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "teresina",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "teresina",
+        "brazil",
+        "fortaleza",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "teresina",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "teresina",
+        "brazil",
+        "sao luis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "tucurui",
+        "brazil",
+        "belem",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "tucurui",
+        "brazil",
+        "parauapebas",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberaba",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberaba",
+        "brazil",
+        "ribeirao preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberaba",
+        "brazil",
+        "uberlandia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberlandia",
+        "brazil",
+        "araxa",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberlandia",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberlandia",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberlandia",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberlandia",
+        "brazil",
+        "goiania",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberlandia",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberlandia",
+        "brazil",
+        "ribeirao preto",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberlandia",
+        "brazil",
+        "rio verde",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uberlandia",
+        "brazil",
+        "uberaba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "uruguaiana",
+        "brazil",
+        "santa maria",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campinas",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campinas",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campinas",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campinas",
+        "brazil",
+        "florianopolis",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campinas",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campinas",
+        "brazil",
+        "lisbon",
+        "portugal",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campinas",
+        "brazil",
+        "recife",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "campinas",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitÃ³ria da conquista",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitÃ³ria da conquista",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitoria",
+        "brazil",
+        "brasilia",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitoria",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitoria",
+        "brazil",
+        "belo horizonte",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitoria",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitoria",
+        "brazil",
+        "sao paulo",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitoria",
+        "brazil",
+        "governador valadares",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitoria",
+        "brazil",
+        "ilheus",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitoria",
+        "brazil",
+        "rio de janeiro",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "vitoria",
+        "brazil",
+        "salvador",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "chapeco",
+        "brazil",
+        "curitiba",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "chapeco",
+        "brazil",
+        "erechim",
+        "brazil",
+        "0"
+    ],
+    [
+        "Banco do Brasil",
+        "toronto",
+        "canada",
+        "sao paulo",
+        "brazil",
+        "0"
+    ]
+]
