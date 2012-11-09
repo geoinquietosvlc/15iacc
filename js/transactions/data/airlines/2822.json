@@ -5,6 +5,21 @@
         "brazil",
         "madrid",
         "spain",
+		{
+            "this_account": {
+                "holder": {
+                    "name": "",
+                    "alias": "no"
+                },
+                "number": "0580591101",
+                "kind": "",
+                "bank": {
+                    "IBAN": "",
+                    "national_identifier": "",
+                    "name": "POSTBANK"
+                }
+            }
+		},
         "0"
     ]
 ]
