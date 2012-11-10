@@ -9,7 +9,7 @@ String.prototype.visualLength = function()
 }
 
 var template = "<h1> ORIGIN</h1>" +
-			"<p>Account Holder: {{this_account.holder}}</p>" +
+			"<h2>Account Holder: {{this_account.holder}}</h2>" +
             "<p>Account Number: {{this_account.number}}</p>" +
             "<h3>Status: {{this_account.kind}}</h1>" +
             "<p>IBAN: {{this_account.bank.IBAN}}</p>" +
@@ -23,14 +23,15 @@ var template = "<h1> ORIGIN</h1>" +
             "<p>Bank Identifier: {{other_account.bank.national_identifier}}</p>" +
             "<p>Bank Name: {{other_account.bank.name}}</p>" +
 			"<h1>DETAILS</h1>" +
-            "<h2>Time Posted: {{details.posted}}</h2>" +
-            "<h2>Time Completed: {{details.completed}}</h2>" +
-            "<h4>Account Currency: {{details.new_balance.currency}}</h4>" +
-            "<h3>Account Balance: {{details.new_balance.amount}}</h3>" +
-            "<h4>Transaction Currency: {{details.value.currency}}</h4>" +
-            "<h3>Transaction Amount: {{details.value.amount}}</h3>"
+            "<p>Time Posted: {{details.posted}}</p>" +
+            "<p>Time Completed: {{details.completed}}</p>" +
+            "<h3>Account Balance: {{details.new_balance.amount}} {{details.new_balance.currency}}</h3>" +
+            "<h4>Transaction Amount: {{details.value.amount}} {{details.value.currency}}</h4>"
             ;
 
+jQuery(document).ready(function() {
+  jQuery("footer").remove();
+});
 //some locals
 var $ = function(id) { return document.getElementById(id); },
     $$ = function(selector) { return document.querySelectorAll(selector); },
@@ -212,7 +213,7 @@ function loadData() {
             jQuery('#transaction').html("");
             jQuery('#transaction').hide().css({
               'margin-right': -420,
-              'margin-top' : -600,
+              'margin-top' : -615,
               'text-align' : 'left',
               'margin-left' : "200%"
             }).show().animate({'margin-right': "+=200", 'margin-left': "95%"}, 2000, function(){});
