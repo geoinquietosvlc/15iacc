@@ -15,7 +15,7 @@ var template = "<h1> ORIGIN</h1>" +
             "<p>IBAN: {{this_account.bank.IBAN}}</p>" +
             "<p>Bank Identifier: {{this_account.bank.national_identifier}}</p>" +
             "<p>Bank Name: {{this_account.bank.name}}</p>" +
-			"<h1>DESTINY</h1>" +
+			"<h1>DESTINATION</h1>" +
             "<p>Account Holder: {{other_account.holder}}</p>" +
             "<p>Account Number: {{other_account.number}}</p>" +
             "<h3>Status: {{other_account.kind}}</h1>" +

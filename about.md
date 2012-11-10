@@ -6,16 +6,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## What's this site
-
-This is a prototype of a client for the API of the [Open Bank Project](http://openbankproject.com/) made during the [15 International Anti-Corruption Conference Hackaton](http://15iacc.org/get-involved/iacc-hackathon/) on 7-11 of November of 2012 in Brasilia, Brazil.
-
-The aim of this prototype is experiment with visualization techniques using WebGL and a 3D globe to explore the data of banks, accounts and transactions provided by the new Open Bank Project API.
-
-<div style="text-align:center;">
-	<img style="margin:5px;" width="150px" src="{{BASE_PATH}}/assets/OBP_logo.png">
-	<img style="margin:5px;" src="{{BASE_PATH}}/assets/15iacc.jpg">
-</div>
 
 ## Who we are
 
@@ -49,3 +39,24 @@ The aim of this prototype is experiment with visualization techniques using WebG
     <p>More info at <a href="http://jorgesanz.net">http://jorgesanz.net</a></p>
   </div>
 </div>
+
+## What's this site
+
+This is a prototype of a client for the API of the [Open Bank Project](http://openbankproject.com/) made during the [15 International Anti-Corruption Conference Hackaton](http://15iacc.org/get-involved/iacc-hackathon/) on 7-11 of November of 2012 in Brasilia, Brazil.
+
+The aim of this prototype is experiment with visualization techniques using WebGL and a 3D globe to explore the data of banks, accounts and transactions provided by the new Open Bank Project API.
+
+<div style="text-align:center;">
+	<img style="margin:5px;" width="150px" src="{{BASE_PATH}}/assets/OBP_logo.png">
+	<img style="margin:5px;" src="{{BASE_PATH}}/assets/15iacc.jpg">
+</div>
+
+
+## How it was done and where I can get the code
+
+The transactions viewer is made using [PhiloGL](https://github.com/senchalabs/philogl), a WebGL 3D framework, so the code is all HTML/JavaScript/CSS/GLSL. The rest of the website is build using [Jekyll](https://github.com/mojombo/jekyll) and [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
+
+You can get the code of the whole site at our [GitHub repo](https://github.com/geoinquietosvlc/15iacc).
+
+
+
