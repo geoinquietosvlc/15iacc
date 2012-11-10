@@ -3,11 +3,12 @@ layout: page
 title: About 
 header: About
 group: navigation
+slug: about
 ---
 {% include JB/setup %}
 
 
-## Who we are
+## **Who** we are
 
 <div class="media">
   <a class="pull-left" href="#">
@@ -40,7 +41,7 @@ group: navigation
   </div>
 </div>
 
-## What's this site
+## **What**'s this site
 
 This is a prototype of a client for the API of the [Open Bank Project](http://openbankproject.com/) made during the [15 International Anti-Corruption Conference Hackaton](http://15iacc.org/get-involved/iacc-hackathon/) on 7-11 of November of 2012 in Brasilia, Brazil.
 
@@ -52,7 +53,7 @@ The aim of this prototype is experiment with visualization techniques using WebG
 </div>
 
 
-## How it was done and where I can get the code
+## **How** it was done and **where** I can get the code
 
 The transactions viewer is made using [PhiloGL](https://github.com/senchalabs/philogl), a WebGL 3D framework, so the code is all HTML/JavaScript/CSS/GLSL. The rest of the website is build using [Jekyll](https://github.com/mojombo/jekyll) and [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
 

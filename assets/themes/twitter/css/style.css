@@ -73,4 +73,9 @@ body{
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+
+
+body.about h2 strong{
+	font-weight: normal;
+	color: #33B5E5;
+}	

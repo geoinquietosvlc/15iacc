@@ -85,3 +85,8 @@ JB :
 
   sharing :
     provider : tweet
+
+  analytics :
+    provider : google 
+    google : 
+        tracking_id : 'UA-36228566-1'
