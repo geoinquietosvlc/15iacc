@@ -36,7 +36,7 @@ slug: about
   </a>
   <div class="media-body">
     <h4 class="media-heading">Jorge Sanz</h4>
-    <p>Ccartography and geodesy engineer: maps and web development</p>
+    <p>Cartography and geodesy engineer: maps and web development</p>
     <p>More info at <a href="http://jorgesanz.net">http://jorgesanz.net</a></p>
   </div>
 </div>
